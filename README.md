@@ -1,6 +1,8 @@
 # testTypeScript
 just testing for typescript
 
+sampletest.ts is a sample code in typescript. And sampletest.js is a code which is compiled using typescript.
+
 ## compile on MacOS
 
 * 1st, you need to install typescript onto your mac os
